@@ -94,9 +94,14 @@
 .projects{
     display: flex;
     justify-content: space-evenly;
-    
-   
 
+}
+
+.apple{
+    height: 258px;
+}
+.amazon-img{
+    height: 258px;
 }
 .card
 {
