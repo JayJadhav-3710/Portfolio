@@ -108,6 +108,10 @@
     margin-top: 40px;
     width: 33.3;
 }
+.huddle
+{
+    height: 258px;
+}
 
 @media only screen and (max-width: 768px) {
    
@@ -115,4 +119,21 @@
         margin-left: 20px;
     }
 }
+.about-page
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 333.3px;
+    color: white;
+    text-align: center;
+}
 
+.body-full
+{
+    background-color: #131c27;
+}
+.nav-hover:hover{
+    text-decoration: underline;
+}
